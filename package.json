@@ -20,5 +20,8 @@
   "dependencies": {
     "express": "^4.15.5",
     "webpack": "^3.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.1"
   }
 }
